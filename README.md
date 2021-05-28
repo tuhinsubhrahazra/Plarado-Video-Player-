@@ -1,4 +1,4 @@
-# Plarado-Video-Player-
+# Playerify-Video-Player-
 This is offline video video player app
 
 
