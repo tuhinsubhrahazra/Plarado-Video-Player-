@@ -14,10 +14,10 @@ This is offline video player android app with many features and animation
 
 ### Playerify Version 1.1.4
 
-<a href="https://github.com/tuhinsubhrahazra/Playerify-Video-Player-/releases/download/1.1.4/Playerify.V1.1.4.apk" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/download-icon-png-4384.png" 
+<a href="https://github.com/tuhinsubhrahazra/Playerify-Video-Player-/releases/download/1.1.5/Playerify.V1.1.5.apk" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/download-icon-png-4384.png" 
 alt="" width="240" height="180" border="10" /></a>
 
-<a href="https://github.com/tuhinsubhrahazra/Playerify-Video-Player-/releases/tag/1.1.4" target="_blank"><img src="https://raw.githubusercontent.com/tuhinsubhrahazra/Audago-Music-/main/get-it-on-github.png" 
+<a href="https://github.com/tuhinsubhrahazra/Playerify-Video-Player-/releases" target="_blank"><img src="https://raw.githubusercontent.com/tuhinsubhrahazra/Audago-Music-/main/get-it-on-github.png" 
 alt="" width="240" height="180" border="10" /></a>
 
 <h3>Screenshots</h3>
