@@ -1,8 +1,8 @@
 # Playerify Video Player-
 This is offline video player android app with many features and animation 
 
-# Playerify
 <img src="icon.png" width="250" title="logo">
+# Playerify
 
 ## App info 
   * Version :  1.1.4
