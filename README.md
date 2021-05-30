@@ -31,10 +31,17 @@ alt="" width="240" height="180" border="10" /></a>
 <div class="row">
       <img src="/ScreenShot/blacklist (3).gif" width="250" title="Videos">
       <img src="/ScreenShot/IMG-20210530-WA0005.jpg" width="250" title="Player">
+      <img src="/ScreenShot/Screenshot_2021-05-30-18-57-16-080_com.tuhin.playerify.jpg" width="250" title="Player">
 </div>
 
 <div class="row">
       <img src="/ScreenShot/IMG-20210530-WA0007.jpg" width="250" title="Saved Player">
+</div>
+
+<div class="row">
+      <img src="/ScreenShot/Screenshot_2021-05-30-18-58-34-361_com.tuhin.playerify.jpg" width="250" title="Videos">
+      <img src="/ScreenShot/Screenshot_2021-05-30-18-58-56-684_com.tuhin.playerify.jpg" width="250" title="Player">
+      <img src="/ScreenShot/Screenshot_2021-05-30-18-57-03-316_com.tuhin.playerify.jpg" width="250" title="Player">
 </div>
 
 
