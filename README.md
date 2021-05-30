@@ -2,7 +2,7 @@
 This is offline video player android app with many features and animation 
 
 <img src="icon.png" width="250" title="logo">
-### Playerify
+# Playerify
 
 ## App info 
   * Version :  1.1.4
@@ -31,6 +31,9 @@ alt="" width="240" height="180" border="10" /></a>
 <div class="row">
       <img src="/ScreenShot/blacklist (3).gif" width="250" title="Videos">
       <img src="/ScreenShot/IMG-20210530-WA0005.jpg" width="250" title="Player">
+</div>
+
+<div class="row">
       <img src="/ScreenShot/IMG-20210530-WA0007.jpg" width="250" title="Saved Player">
 </div>
 
