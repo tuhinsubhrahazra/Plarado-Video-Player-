@@ -7,7 +7,7 @@ This is offline video player android app with many features and animation
 ## App info 
   * Version :  1.1.4
   * Updated on :  30-May-2021
-  * Download size : 7.35 MB
+  * Download size : 7.87 MB
   * Released on 30-May-2021 
   
 # Download App
